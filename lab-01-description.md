@@ -42,6 +42,8 @@
     ```kotlin
     val pet = Pet("Coco", 6)
     ```
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="assets/img1.png" width="400" style="margin: 20px;">
 
 5. Make a `Cat` subclass of `Pet`
     - Add the keyword `open` to the `Pet` class to allow inheritance and overriding
